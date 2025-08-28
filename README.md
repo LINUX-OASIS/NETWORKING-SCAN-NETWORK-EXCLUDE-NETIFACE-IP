@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/LINUX-OASIS/NETWORKING-SCAN-NETWORK-EXCLUDE-NETIFACE-IP)](https://github.com/LINUX-OASIS/NETWORKING-SCAN-NETWORK-EXCLUDE-NETIFACE-IP/issues)
 [![GitHub PRs](https://img.shields.io/github/issues-pr/LINUX-OASIS/NETWORKING-SCAN-NETWORK-EXCLUDE-NETIFACE-IP)](https://github.com/LINUX-OASIS/NETWORKING-SCAN-NETWORK-EXCLUDE-NETIFACE-IP/pulls)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/LINUX-OASIS/NETWORKING-SCAN-NETWORK-EXCLUDE-NETIFACE-IP)](https://github.com/LINUX-OASIS/NETWORKING-SCAN-NETWORK-EXCLUDE-NETIFACE-IP/releases)
-[![GitHub stars](https.img.shields.io/github/stars/LINUX-OASIS/NETWORKING-SCAN-NETWORK-EXCLUDE-NETIFACE-IP?style=social)](https://github.com/LINUX-OASIS/NETWORKING-SCAN-NETWORK-EXCLUDE-NETIFACE-IP/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/LINUX-OASIS/NETWORKING-SCAN-NETWORK-EXCLUDE-NETIFACE-IP?style=social)](https://github.com/LINUX-OASIS/NETWORKING-SCAN-NETWORK-EXCLUDE-NETIFACE-IP/stargazers)
 
 A powerful Bash script to scan your local network for all connected devices. It intelligently identifies your machine's IP address and excludes it from the final results, giving you a clean list of other devices on your network.
 
